@@ -1,5 +1,6 @@
 # Basic Site Info
 title: "Dhanvanth Voona"
+logo: Headshot.jpg
 description: >
   I know there are countless students and recent grads with Data Science projects and AI-generated summaries. 
   I aim to keep things more interesting and less predictable. To showcase my analytical approach, here’s what ChatGPT generated 
@@ -15,8 +16,7 @@ description: >
 
   This adaptability is crucial as a Data Scientist/AI Engineer, especially with new models emerging almost every week. 
 
-# Experience Overview
-experience:
+  Experience Overview
   - "1+ years in Generative AI and LLMs"
   - "2+ years in Business Intelligence, data visualization, and SQL"
   - "3+ years in Deep Learning, NLP, and Computer Vision"
@@ -31,7 +31,7 @@ plugins:
   - jekyll-analytics     # Optional: Add Google Analytics for site traffic tracking
 
 # Display Options
-show_downloads: true
+#show_downloads: true
 show_search: true    # Enables search functionality for easier navigation
 show_social_links: true  # Optional: Display social media links if configured
 
