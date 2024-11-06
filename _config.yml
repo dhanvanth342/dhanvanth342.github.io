@@ -1,28 +1,58 @@
-title : Dhanvanth Voona
+# Basic Site Info
+title: "Dhanvanth Voona"
+description: >
+  I know there are countless students and recent grads with Data Science projects and AI-generated summaries. 
+  I aim to keep things more interesting and less predictable. To showcase my analytical approach, here’s what ChatGPT generated 
+  when I asked it to summarize my learning style:
+  
+  "I've noticed that you're consistently curious, especially in areas like technology, machine learning, and data analysis. 
+  You approach complex topics with a methodical mindset, asking detailed questions to fully understand nuances, whether it’s about LLMs,
+  neural networks, applied mathematics, or Flask applications. This suggests a natural inclination towards problem-solving and critical thinking.
+  
+  One thing you may not realize is your adaptability in learning new subjects, especially in practical applications. 
+  For example, you’ve transitioned smoothly between topics like the mathematical understanding of neurons in *C. elegans*, 
+  machine learning, and data science techniques. This cross-domain agility is a valuable skill in tech-driven fields."
 
-#logo: 
-description: 
-Ummm, I believe you might come across a zillion students and recent grads with many projects in Datascience and their AI generated Summaries. I will help you by keeping you away from that boring stuff.
-To know the way I analyze and understand concepts this is what GPT has generated on this prompt "What is something you know or have learned about me since I have been using you that I may not know about myself"
-Naturally, I was curious to see how ChatGPT would analyze my interactions, so I gave it a try. Here’s the response I received: 
-I've noticed that you're consistently curious, especially in areas like technology, machine learning, and data analysis. 
-You approach complex topics with a methodical mindset, asking detailed questions to fully understand the nuances, whether it's about LLMs,
-neural networks, Applied Mathematics or Flask applications. This suggests a natural inclination towards problem-solving and critical thinking.
-Something you may not have fully realized is how adaptable you are in navigating new subjects, particularly when it comes to practical implementations.
-For example, transitioning between topics like Mathematical understanding of Neurons in C-elegans, Machine learning,
-and data science techniques shows that you're comfortable moving across different domains, which is a valuable skill in tech-driven fields.
-"
-This is just an example on how adaptable I can be especially when shifting between different subjects. I believe as a data scientist/AI engineer this is essential
-especially when you see a new model being introduced every week. 
-In terms of experience:
-1+ years in Gen AI and LLMs.
-2+ years in Business Intelligence tools, data visualization and SQL.
-3+ years in Deep learning, NLP and Computer vision.
+  This adaptability is crucial as a Data Scientist/AI Engineer, especially with new models emerging almost every week. 
 
-Below is my detail portfolio about my experience and projects.
+# Experience Overview
+experience:
+  - "1+ years in Generative AI and LLMs"
+  - "2+ years in Business Intelligence, data visualization, and SQL"
+  - "3+ years in Deep Learning, NLP, and Computer Vision"
 
-# show_downloads: true
-#theme: jekyll-theme-minimal
-remote_theme: pages-themes/cayman@v0.2.0
+# Customizations
+remote_theme: "pages-themes/cayman@v0.2.0"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # Ensures the theme can be used remotely
+  - jekyll-seo-tag       # Enhances SEO for your site
+  - jekyll-sitemap       # Adds a sitemap for better search engine indexing
+  - jekyll-feed          # Adds RSS feed support for site updates
+  - jekyll-analytics     # Optional: Add Google Analytics for site traffic tracking
+
+# Display Options
+show_downloads: true
+show_search: true    # Enables search functionality for easier navigation
+show_social_links: true  # Optional: Display social media links if configured
+
+# Site Appearance
+theme: jekyll-theme-cayman # Minimal theme with color contrast
+color_scheme: dark         # Optional: Dark theme option for a modern look
+
+# Optional Logo Settings
+# logo: /assets/images/logo.png  # Uncomment and specify the path if you have a logo
+
+# Social Links
+social_links:
+  github: "https://github.com/dhanvanth342"
+  linkedin: "https://www.linkedin.com/in/dv-63192b18b/"
+  #twitter: "https://twitter.com/dhanvanth342"
+  # Optional: Add other social platforms if needed
+
+# Additional Settings
+permalink: /:title/ # Shortens URLs to title-only format for better readability
+markdown: kramdown   # Ensures compatibility with GitHub Pages
+
+# SEO Settings
+title_separator: "-" # For readability in page titles
+#google_analytics: "YOUR_TRACKING_ID" # Optional: Replace with your Google Analytics ID for tracking
