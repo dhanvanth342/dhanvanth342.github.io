@@ -1,8 +1,27 @@
 title : Dhanvanth Voona
 
 #logo: 
-#description: 
-show_downloads: true
+description: 
+Ummm, I believe you might come across a zillion students and recent grads with many projects in Datascience and their AI generated Summaries. I will help you by keeping you away from that boring stuff.
+To know the way I analyze and understand concepts this is what GPT has generated on this prompt "What is something you know or have learned about me since I have been using you that I may not know about myself"
+Naturally, I was curious to see how ChatGPT would analyze my interactions, so I gave it a try. Here’s the response I received: 
+I've noticed that you're consistently curious, especially in areas like technology, machine learning, and data analysis. 
+You approach complex topics with a methodical mindset, asking detailed questions to fully understand the nuances, whether it's about LLMs,
+neural networks, Applied Mathematics or Flask applications. This suggests a natural inclination towards problem-solving and critical thinking.
+Something you may not have fully realized is how adaptable you are in navigating new subjects, particularly when it comes to practical implementations.
+For example, transitioning between topics like Mathematical understanding of Neurons in C-elegans, Machine learning,
+and data science techniques shows that you're comfortable moving across different domains, which is a valuable skill in tech-driven fields.
+"
+This is just an example on how adaptable I can be especially when shifting between different subjects. I believe as a data scientist/AI engineer this is essential
+especially when you see a new model being introduced every week. 
+In terms of experience:
+1+ years in Gen AI and LLMs.
+2+ years in Business Intelligence tools, data visualization and SQL.
+3+ years in Deep learning, NLP and Computer vision.
+
+Below is my detail portfolio about my experience and projects.
+
+# show_downloads: true
 #theme: jekyll-theme-minimal
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
