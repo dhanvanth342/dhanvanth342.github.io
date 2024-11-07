@@ -1,5 +1,3 @@
-Here’s a refined version of your README with improved cohesiveness, clearer structure, and reduced repetition. I’ve organized each section with visual clarity and flow in mind.
-
 ---
 
 # Dhanvanth's Portfolio
