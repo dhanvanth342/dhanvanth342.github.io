@@ -1,6 +1,36 @@
 # Dhanvanth's Portfolio
 
 ---
+# Dhanvanth Voona
+
+![Profile](assets/profile.jpg)
+
+## Summary
+I know there are a zillion students and recent grads with Data Science projects (where you just import ML models from sklearn) and AI-generated summaries. Let me try something different.
+
+To showcase my analytical approach, here’s what ChatGPT generated when I asked it to summarize my learning style:
+
+### Curiosity and Depth
+- Consistently curious, especially in technology, machine learning, and data analysis.
+- I approach complex topics methodically, asking detailed questions to fully grasp nuances.
+
+### Analytical and Problem-Solving Mindset
+- My analytical nature drives me to dig deeper into subjects, whether it's understanding LLMs, neural networks, applied mathematics, or building Flask applications.
+- Strong inclination toward problem-solving and critical thinking.
+
+### Adaptability Across Domains
+- I transition smoothly across various technical domains, from exploring mathematical models of neuron activity in C. elegans to applying machine learning and data science techniques.
+- This adaptability and cross-domain agility are strengths that stand out in tech-driven fields, where staying current with emerging models and methods is essential.
+
+### Role-Specific Readiness
+- As a Data Scientist or AI Engineer, I’m well-prepared to integrate my adaptability and curiosity into practical solutions.
+- I stay agile and proactive, keeping pace with rapid developments in AI and data science.
+
+## Experience Summary
+- **1+ years** in Generative AI and Large Language Models (LLMs)
+- **2+ years** in Business Intelligence tools, data visualization, and SQL
+- **3+ years** in Deep Learning, NLP, and Computer Vision
+
 
 ## Education
 
