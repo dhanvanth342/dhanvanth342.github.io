@@ -1,48 +1,33 @@
 # Basic Site Info
 title: "Dhanvanth Voona"
 logo: /assets/profile.jpg
-description: >
-  I know there are a zillion students and recent grads with Data Science projects (where you just import ml models from sklearn) and AI-generated summaries. Let me try something different:
-  
-  To showcase my analytical approach, here’s what ChatGPT generated when I asked it to summarize my learning style.
-
-  Curiosity and Depth: I am consistently curious, especially in technology, machine learning, and data analysis. I approach complex topics methodically, asking detailed questions to fully grasp nuances.
-
-  Analytical and Problem-Solving Mindset: My analytical nature drives me to dig deeper into subjects, whether it's understanding LLMs, neural networks, applied mathematics, or building Flask applications. This shows a strong inclination toward problem-solving and critical thinking.
-
-  Adaptability Across Domains: I transition smoothly across various technical domains, from exploring the mathematical models of neuron activity in C. elegans to applying machine learning and data science techniques. This adaptability and cross-domain agility are strengths that stand out in tech-driven fields, where staying current with emerging models and methods is essential.
-
-  Role-Specific Readiness: As a Data Scientist or AI Engineer, I’m well-prepared to integrate my adaptability and curiosity into practical solutions. I stay agile and proactive, keeping pace with the rapid developments in AI and data science.
-
-  Experience Summary: 1+ years in Generative AI and Large Language Models (LLMs). 2+ years in Business Intelligence tools, data visualization, and SQL. 3+ years in Deep Learning, NLP, and Computer Vision.
+description: "Curiosity and Depth in technology, machine learning, and data analysis"
 
 # Customizations
 remote_theme: "pages-themes/cayman@v0.2.0"
 plugins:
-  - jekyll-remote-theme  # Ensures the theme can be used remotely
-  - jekyll-seo-tag       # Enhances SEO for your site
-  - jekyll-sitemap       # Adds a sitemap for better search engine indexing
-  - jekyll-feed          # Adds RSS feed support for site updates
-  - jekyll-analytics     # Optional: Add Google Analytics for site traffic tracking
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-analytics
 
 # Display Options
-show_search: true         # Enables search functionality for easier navigation
-show_social_links: true   # Enables display of social media links
+show_search: true
+show_social_links: true
 
 # Site Appearance
-theme: jekyll-theme-cayman # Cayman theme with a clean, minimal design
-color_scheme: dark         # Optional: Dark theme option for a modern look
+theme: jekyll-theme-cayman
+color_scheme: dark
 
 # Social Links
 social_links:
   github: "https://github.com/dhanvanth342"
   linkedin: "https://www.linkedin.com/in/dv-63192b18b/"
-  # twitter: "https://twitter.com/dhanvanth342"  # Uncomment if you want to display Twitter
 
 # Additional Settings
-permalink: /:title/       # Shortens URLs to title-only format for better readability
-markdown: kramdown        # Ensures compatibility with GitHub Pages
+permalink: /:title/
+markdown: kramdown
 
 # SEO Settings
-title_separator: "-"      # For readability in page titles
-# google_analytics: "YOUR_TRACKING_ID" # Optional: Replace with your Google Analytics ID for tracking
+title_separator: "-"
