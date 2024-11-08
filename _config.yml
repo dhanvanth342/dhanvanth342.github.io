@@ -3,32 +3,6 @@ title: "Dhanvanth Voona"
 logo: /assets/profile3.jpg
 description: "Curiosity and Depth in GenAI, LLMs, Machine Learning, Deep Learning and Data Analysis"
 
-# Customizations
-remote_theme: "jekyll/minimal-theme"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-analytics
-
-# Display Options
-show_search: true
-show_social_links: true
 
 # Site Appearance
-theme: jekyll-theme-cayman
-color_scheme: dark
-
-# Social Links
-social_links:
-  github: "https://github.com/dhanvanth342"
-  linkedin: "https://www.linkedin.com/in/dv-63192b18b/"
-
-# Additional Settings
-permalink: /:title/
-markdown: kramdown
-
-# SEO Settings
-title_separator: "-"
+theme: jekyll-theme-minimal
