@@ -1,8 +1,6 @@
 # Dhanvanth's Portfolio
 
 ---
-# Dhanvanth Voona
-
 
 ## Summary
 I know there are a zillion students and recent grads with Data Science projects (where you just import ML models from sklearn) and AI-generated summaries. Let me try something different.
