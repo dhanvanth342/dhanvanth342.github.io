@@ -2,8 +2,8 @@
 
 ---
 
-## Summary
-I know there are a zillion students and recent grads with Data Science projects (where you just import ML models from sklearn) and AI-generated summaries. Let me try something different.
+## Introduction
+Hey there!! I know there are a zillion students and recent grads with Data Science projects (where you just import ML models from sklearn) and AI-generated summaries. Let me try something different.
 
 To showcase my analytical approach, here’s what ChatGPT generated when I asked it to summarize my learning style:
 
@@ -104,8 +104,9 @@ To showcase my analytical approach, here’s what ChatGPT generated when I asked
 - **Cloud Platforms**: Microsoft Azure, AWS SageMaker.
 
 ---
+## Research Publications
 
-@@ -114,7 +107,7 @@ To showcase my analytical approach, here’s what ChatGPT generated when I asked
+- **Performance Analysis of Deep Convolutional Network Architectures for Classification of Over-Volume Vehicles**  
   *Published in Applied Sciences* [Impact factor: 2.838]
 
 - **Automated Classification of Student's Emotion Through Facial Expressions Using Transfer Learning**  
