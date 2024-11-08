@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-Hey there!! I know there are a zillion students and recent grads with Data Science projects (where you just import ML models from sklearn) and AI-generated summaries. Let me try something different.
+Hey there!! I know there are a zillion students and recent grads with Data Science projects (where you import ML models from sklearn) and AI-generated summaries. Let me try something different.
 
 To showcase my analytical approach, here’s what ChatGPT generated when I asked it to summarize my learning style:
 
