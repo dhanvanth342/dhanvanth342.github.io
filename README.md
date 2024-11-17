@@ -28,6 +28,8 @@ To showcase my analytical approach, here’s what ChatGPT generated when I asked
 - **2+ years** in Business Intelligence tools, data visualization, and SQL
 - **3+ years** in Deep Learning, NLP, and Computer Vision
 
+## Achievement
+- Graduate Pathway Scholarship Awardee **($ 10,000)** awarded for Academic Merit
 
 ## Education
 
