@@ -1,5 +1,6 @@
 # My Portfolio
-- Hello! I'm Dhanvanth Voona, currently working as AI Engineer Intern at Liminal XR Solution and pursuing Master of Data Science student at Illinois Institute of Technology, expected to graduate in May 2025.
+
+Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Liminal XR Solution and pursuing Master of Data Science student at Illinois Institute of Technology, expected to graduate in May 2025.
 ---
 ## Experience Summary
 - **1+ years** in Generative AI and Large Language Models (LLMs)
