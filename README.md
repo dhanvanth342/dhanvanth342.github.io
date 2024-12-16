@@ -27,9 +27,14 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 
 ### Artificial Intelligence Intern  
 **Liminal XR Solutions**  
-*Jun 2024 - Present*  
-- Spearheaded the development of an AI museum guide using Retrieval-Augmented Generation (RAG) and fine-tuning LLMs in the Langchain framework, improving VR query response quality by 40%.
-- Engineered facial unit mapping for VR avatars, enhancing emotional expressiveness by 60% and user satisfaction by 20%.
+*Feb 2024 - Present*  
+-	Developed and deployed a Python-based web application leveraging GPT-4o, LLaMA-3.3-70B, LangChain, Chroma-DB, and FastAPI framework to create a restaurant recommender system using client-sourced data. 
+-	Implemented a secondary LLM as a validation checker, reducing hallucination rates from 9.6% to 3.2% and improving text relevancy in a Retrieval-Augmented Generation (RAG) application, decreasing irrelevant responses from 96 to 32 per 1,000 test samples.
+-	Automated web scraping using the Google Maps API to extract images of restaurants present in database, achieving an 80% improvement in scraping speed with 94% accuracy and significantly reducing manual scraping costs
+-	Designed a log-transformation-based relevancy score for attributes such as average cost and number of reviews, resulting in an unbiased ranking system for sorting the top-K results retrieved from vectordb. 
+-	Enhanced content engagement by developing AI-driven personalized welcome messages for event delegates, utilizing web scraping, LLMs, and text-to-speech technology, increasing engagement and reducing manual effort by 80%.
+-	Currently developing multimodal image generation models inspired by Indian art and heritage to create abstract art for enriching cultural VR experiences.
+
 
 ### Data Science Intern  
 **National Institute of Education, Nanyang Technological University (NTU)**  
