@@ -52,7 +52,7 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 - Created Power BI dashboards for patient scheduling, improving efficiency by 30%.
 - Built an eye-movement detection system using transfer learning and neural networks, achieving 95% accuracy in identifying eye positions for communication aid in paralyzed patients.
 
-### Research Intern  
+### Computer Vision Intern  
 **Samsung PRISM**  
 *Jun 2021 – Feb 2022*  
 - Researched and developed an AI-based reflection scene category classifier, achieving 93% accuracy.
