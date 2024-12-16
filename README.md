@@ -41,10 +41,11 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 *Aug 2022 - Aug 2023*  
 - Performed statistical analysis and trend identification on stock prices using Excel functions.
 - Created an interactive Power BI dashboard, reducing report generation time by 25%.
-- Conducted multimodal analysis on memes, achieving 89% accuracy in emotion recognition using OCR and deep learning within TensorFlow.
-- Led research on facial emotion recognition, achieving an 82.73% classification accuracy for complex emotions in classroom settings.
+-	Conducted multimodal analysis on memes, achieving 89% accuracy in emotion recognition by integrating OCR for text extraction and deep learning for image analysis within a TensorFlow environment.
+-	Led research on facial emotion recognition for classroom settings, improving real-time student engagement monitoring with advanced computer vision techniques and achieving 82.73% classification accuracy for complex emotions such as boredom and frustration using TensorFlow/Keras
 
-### Summer Intern  
+
+### Data Analyst Intern  
 **National University of Singapore, Changi, Singapore**  
 *Jun 2022 – Jan 2023*  
 - Developed a Healthcare Management System with Python and SQL, enhancing data processing efficiency by 25%.
