@@ -90,6 +90,25 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 - **Increased Predictor Significance:** Identified and retained impactful predictors such as `Item_MRP` and outlet-related features, resulting in 60% higher explanatory power for sales prediction while removing non-significant features to reduce model complexity by 30%.
 - [Github Repository](https://github.com/dhanvanth342/Predictive-Analysis-of-Retail-Sales-Using-Regression-Modeling). 
 
+### Math Behind Machine Learning
+*Oct - Dec 2024*
+
+- **Cross-Validation & Hyperparameter Tuning:**  
+  - Implemented cross-validation on classification datasets without SciPy to optimize models.  
+
+- **Dimensional Reduction:**  
+  - Explored MDS for spatial projections, SVD for image compression, and PCA with insights on transformation choices.  
+
+- **Semi-Supervised Learning:**  
+  - Analyzed Label Spreading, data imbalance, and GCN performance, emphasizing the importance of labeled data.  
+
+- **Unsupervised Learning:**  
+  - Compared GMM, K-Means, and Spectral Clustering, showcasing GMM's adaptability and Spectral Clustering's non-linear clustering strengths.  
+
+- **Performance Metrics:**  
+  - Used ARI and NMI to evaluate clustering models and highlight key findings.
+- [Github Repository](https://github.com/dhanvanth342/Math-Behind-Machine-Learning)
+
 ### Cold Email Generator for Recruiters  
 *Apr – Sep 2024*  
 - Built an AI-driven email generator to personalize recruiter outreach, reducing manual effort by 90%.
