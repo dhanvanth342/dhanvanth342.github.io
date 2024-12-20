@@ -106,6 +106,18 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 - Optimized Performance Metrics: Achieved a precision of 92.30% and an F1-score of 91.58% with ResNet models, significantly
   outperforming plain networks, which struggled to exceed 85.71% F1-score due to depth-related instability.
 - [Github Repository](https://github.com/dhanvanth342/How-Skip-Connections-working-to-reduce-impact-of-Vanishing-gradient-for-Brain-Tumor-Dataset).
+
+### Predictive Analysis of Retail Sales Using Regression Modeling
+*Nov - Dec 2024*
+- **Enhanced Model Performance by 15%:** Improved adjusted R-squared from 62.5% to 71.9% and reduced residual standard error by 48% (from 1045 to 0.539) through systematic feature selection, backward elimination, and logarithmic transformations to address multicollinearity and heteroscedasticity.
+
+- **Optimized Data Handling:** Preprocessed a dataset of 8,000+ observations by imputing missing values (mean for `Item_Weight`, mode for `Outlet_Size`), standardizing categories, and applying advanced encoding techniques (target, ordinal, and one-hot), reducing data inconsistencies by 100% and enabling seamless model integration.
+
+- **Resolved Multicollinearity Issues:** Decreased Variance Inflation Factor (VIF) values of predictors by 98% (e.g., `Outlet_Type` from 305.42 to below 4.2) by removing redundant variables and retaining impactful ones like `Item_MRP`, leading to a stable, interpretable model.
+
+- **Increased Predictor Significance:** Identified and retained impactful predictors such as `Item_MRP` and outlet-related features, resulting in 60% higher explanatory power for sales prediction while removing non-significant features to reduce model complexity by 30%.
+- [Github Repository](https://github.com/dhanvanth342/Predictive-Analysis-of-Retail-Sales-Using-Regression-Modeling). 
+
   
 ---
 
