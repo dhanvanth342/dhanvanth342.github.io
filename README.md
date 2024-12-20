@@ -41,8 +41,6 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 - Applied Excel's statistical functions to conduct in-depth analysis and identify trends in stock price movements, enhancing financial insights.  
 - Developed an interactive dashboard in Microsoft Power BI, reducing report generation time by 25% and enabling more informed decision-making with real-time market insights.  
 - Enhanced accuracy in detecting stationarity, trend, and seasonality components, leading to a 15% improvement in prediction performance and a reduction in forecasting errors.  
-
-#### Key Achievements:
 - Designed and developed a unique classroom emotion dataset by integrating landmark detection and Facial Action Unit (FAU) mapping with state-of-the-art datasets through web scraping, resulting in a final dataset comprising 18,000 images across 15 emotion classes.  
 - Fine-tuned state-of-the-art models, including VGGNet, ResNet, and EfficientNet, by unfreezing 20% of the neural network layers for training on the constructed dataset, achieving a 15% improvement in test accuracy through optimized model weights.  
 - Implemented a novel framework for academic emotion classification using VGG-19 as a feature extractor and Multi-Layer Perceptron (MLP) as a classifier, achieving 82.73% classification accuracy on the test set after performing 5-fold cross-validation for complex emotions such as boredom and frustration.  
