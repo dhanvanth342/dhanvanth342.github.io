@@ -1,6 +1,6 @@
 # My Portfolio
 ---
-Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Liminal XR Solution and pursuing Master of Data Science student at Illinois Institute of Technology, expected to graduate in May 2025.
+Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Liminal XR Solution with expertise in Prompt Engineering, LLMs, RAG applications, Data Analysis, Business Intelligence, Computer Vision and pursuing Master of Data Science student at Illinois Institute of Technology, expected to graduate in May 2025.
 
 ---
 ## Experience Summary
@@ -15,7 +15,7 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 *Illinois Institute of Technology, Chicago, IL*  
 - Concentration in Generative AI and Data Analytics.
 - Graduate Pathway Scholarship Awardee **($ 10,000)** awarded for Academic Merit
-- 
+  
 **Bachelor’s Degree in Electronics and Communication Engineering**  
 *Vellore Institute of Technology, Chennai, TN*  
 - Research focus: Deep Learning, Computer Vision, and Natural Language Processing.
