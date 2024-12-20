@@ -8,15 +8,14 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 - **2+ years** in Business Intelligence tools, data visualization, and SQL
 - **3+ years** in Deep Learning, NLP, and Computer Vision
 
-## Achievement
-- Graduate Pathway Scholarship Awardee **($ 10,000)** awarded for Academic Merit
 
 ## Education
 
 **Master of Data Science**  
 *Illinois Institute of Technology, Chicago, IL*  
 - Concentration in Generative AI and Data Analytics.
-
+- Graduate Pathway Scholarship Awardee **($ 10,000)** awarded for Academic Merit
+- 
 **Bachelor’s Degree in Electronics and Communication Engineering**  
 *Vellore Institute of Technology, Chennai, TN*  
 - Research focus: Deep Learning, Computer Vision, and Natural Language Processing.
@@ -85,6 +84,15 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 - Reduced data handling time by 30%, with advanced data modeling, DAX formulas, and SQL.
 - [GitHub Repository](https://github.com/dhanvanth342/Credit-card-approval-ML)
 
+### Over-volume vehicle classification using Deep CNN models 
+*Jan - May 2022*
+- Collected 3054 real-time image data across 3 classes to monitor and classify over-volume vehicles, providing an automated
+  solution in rural and terrain areas where human surveillance is impractical, improving traffic management and safety.
+- Developed and evaluated a transfer learning-based CNN model using ImageNet pre-trained weights and EfficientNet-B3
+  architecture, fine-tuning dense layers to optimize performance on real-time vehicle data, achieving 95% accuracy.
+- Performance was assessed using metrics such as confusion matrix, ROC curve, and AUC score to identify the most effective
+  model for over-volume vehicle detection
+- [Publication](https://www.mdpi.com/2076-3417/13/4/2549) 
 ---
 
 ## Skills
