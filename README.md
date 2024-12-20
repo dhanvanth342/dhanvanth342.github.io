@@ -39,10 +39,15 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 ### Data Science Intern  
 **National Institute of Education, Nanyang Technological University (NTU)**  
 *Aug 2022 - Aug 2023*  
-- Performed statistical analysis and trend identification on stock prices using Excel functions.
-- Created an interactive Power BI dashboard, reducing report generation time by 25%.
--	Conducted multimodal analysis on memes, achieving 89% accuracy in emotion recognition by integrating OCR for text extraction and deep learning for image analysis within a TensorFlow environment.
--	Led research on facial emotion recognition for classroom settings, improving real-time student engagement monitoring with advanced computer vision techniques and achieving 82.73% classification accuracy for complex emotions such as boredom and frustration using TensorFlow/Keras
+- Applied Excel's statistical functions to conduct in-depth analysis and identify trends in stock price movements, enhancing financial insights.  
+- Developed an interactive dashboard in Microsoft Power BI, reducing report generation time by 25% and enabling more informed decision-making with real-time market insights.  
+- Enhanced accuracy in detecting stationarity, trend, and seasonality components, leading to a 15% improvement in prediction performance and a reduction in forecasting errors.  
+
+#### Key Achievements:
+- Designed and developed a unique classroom emotion dataset by integrating landmark detection and Facial Action Unit (FAU) mapping with state-of-the-art datasets through web scraping, resulting in a final dataset comprising 18,000 images across 15 emotion classes.  
+- Fine-tuned state-of-the-art models, including VGGNet, ResNet, and EfficientNet, by unfreezing 20% of the neural network layers for training on the constructed dataset, achieving a 15% improvement in test accuracy through optimized model weights.  
+- Implemented a novel framework for academic emotion classification using VGG-19 as a feature extractor and Multi-Layer Perceptron (MLP) as a classifier, achieving 82.73% classification accuracy on the test set after performing 5-fold cross-validation for complex emotions such as boredom and frustration.  
+- Developed a multimodal analysis pipeline for emotion recognition in memes, achieving 89% accuracy by integrating Optical Character Recognition (OCR) for text extraction and deep learning for image analysis in TensorFlow/Keras.  
 
 
 ### Data Analyst Intern  
