@@ -107,6 +107,16 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
   - Used ARI and NMI to evaluate clustering models and highlight key findings.
 - [Github Repository](https://github.com/dhanvanth342/Math-Behind-Machine-Learning)
 
+### Forecasting Earth Surface Temperature
+*Mar - Apr 2024*
+
+- Conducted extensive **exploratory data analysis (EDA)** on a two-century dataset to identify trends and seasonality in global temperature patterns.  
+- Engineered predictive models (ARIMA and SARIMA) to forecast Earth's surface temperature, achieving a **60% reduction in mean squared error (MSE)** with SARIMA compared to ARIMA.  
+- Optimized model performance through exhaustive grid search and stationarity validation using statistical tests.  
+- Analyzed residual patterns and implemented decomposition techniques to improve forecasting accuracy.  
+- Delivered actionable insights into climate change trends, aiding decision-making for policymakers and climate adaptation strategies.  
+- [Github Repository](https://github.com/dhanvanth342/Forecasting-Earth-Surface-Temperature-TS/tree/main) 
+
 ### Cold Email Generator for Recruiters  
 *Apr – Sep 2024*  
 - Built an AI-driven email generator to personalize recruiter outreach, reducing manual effort by 90%.
