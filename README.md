@@ -24,7 +24,7 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 
 ## Work Experience
 
-### Artificial Intelligence Intern  
+#### Artificial Intelligence Intern  
 **Liminal XR Solutions**  
 *Feb 2024 - Present*  
 -	Developed and deployed a Python-based web application leveraging GPT-4o, LLaMA-3.3-70B, LangChain, Chroma-DB, and FastAPI framework to create a restaurant recommender system using client-sourced data. 
@@ -35,7 +35,7 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 -	Currently developing multimodal image generation models inspired by Indian art and heritage to create abstract art for enriching cultural VR experiences.
 
 
-### Data Science Intern  
+#### Data Science Intern  
 **National Institute of Education, Nanyang Technological University (NTU)**  
 *Aug 2022 - Aug 2023*  
 - Applied Excel's statistical functions to conduct in-depth analysis and identify trends in stock price movements, enhancing financial insights.  
@@ -47,17 +47,24 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 - Developed a multimodal analysis pipeline for emotion recognition in memes, achieving 89% accuracy by integrating Optical Character Recognition (OCR) for text extraction and deep learning for image analysis in TensorFlow/Keras.  
 
 
-### Data Analyst Intern  
+#### Data Analyst Intern  
 **National University of Singapore, Changi, Singapore**  
 *Jun 2022 – Jan 2023*  
 - Developed a Healthcare Management System with Python and SQL, enhancing data processing efficiency by 25%.
 - Created Power BI dashboards for patient scheduling, improving efficiency by 30%.
-- Built an eye-movement detection system using transfer learning and neural networks, achieving 95% accuracy in identifying eye positions for communication aid in paralyzed patients.
+- Developed an automated eye movement detection system as an alternative communication method for paralysis patients, using transfer learning, deep neural networks, and face detection algorithms to classify eye    movements for communication.
+- Collected and pre-processed a diverse dataset of facial images (70% from online resources like Bing API and 30% manually collected with written consent), building a robust dataset for training and testing     
+  models.
+- Designed and implemented a custom hybrid neural network incorporating depth scaling and skip connections, achieving 95% accuracy in classifying human eye position from real-time video using Flutter 
 
-### Computer Vision Intern  
+
+#### Computer Vision Intern  
 **Samsung PRISM**  
 *Jun 2021 – Feb 2022*  
-- Researched and developed an AI-based reflection scene category classifier, achieving 93% accuracy.
+- Led a team of 10 students in researching "AI-Based Reflection Scene Category Classification," delivering weekly reports via 
+  Power BI and reducing data analysis and reporting time by 35%.  
+- Applied pruning technique to reduce inference time by 60%, achieving a 93% classification accuracy—comparable to state
+  of-the-art (SOTA) models [EfficientNet, DenseNet, MobileNetV3]  for real-time reflection scene classification 
 - Generated weekly Power BI reports, reducing data analysis time by 35%.
 
 ---
