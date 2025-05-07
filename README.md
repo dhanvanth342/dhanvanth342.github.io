@@ -26,7 +26,7 @@ Hello! I'm Dhanvanth Voona, currently working as an AI Engineer Intern at Limina
 
 #### Artificial Intelligence Intern  
 **Liminal XR Solutions**  
-*Feb 2024 - Present*  
+*JAN 2023 - FEB 2025*  
 -	Developed and deployed a Python-based web application leveraging GPT-4o, LLaMA-3.3-70B, LangChain, Chroma-DB, and FastAPI framework to create a restaurant recommender system using client-sourced data. 
 -	Implemented a secondary LLM as a validation checker, reducing hallucination rates from 9.6% to 3.2% and improving text relevancy in a Retrieval-Augmented Generation (RAG) application, decreasing irrelevant responses from 96 to 32 per 1,000 test samples.
 -	Automated web scraping using the Google Maps API to extract images of restaurants present in database, achieving an 80% improvement in scraping speed with 94% accuracy and significantly reducing manual scraping costs
